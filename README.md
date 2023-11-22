@@ -2,6 +2,8 @@
 
 Welcome to the repository for my personal portfolio website. This site showcases my work, skills, and projects as a 3rd year COGS + CS student at SFU.
 
+PS - Github Repo links are functional but livedemo links are currently not functional (just placeholders)
+
 ## Link
 
 Visit <https://avkap007.github.io/portfoliowebsite/>
