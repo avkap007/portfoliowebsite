@@ -20,7 +20,7 @@ The choice of technologies ensures that the website is lightweight and fast-load
 
 ## Wireframe
 
-[wireframe_portfolio.pdf](wireframe_portfolio.pdf])
+[wireframe_portfolio.pdf](wireframe_portfolio.pdf)
 
 ## Website Sections
 
