@@ -18,9 +18,6 @@ This portfolio is built with a focus on simplicity and performance, utilizing th
 
 The choice of technologies ensures that the website is lightweight and fast-loading, providing a seamless user experience across all devices.
 
-
-
-
 ## Website Sections
 
 - **About**: Learn more about me, my background, and my experiences in volunteer work, education, and professional roles.
@@ -35,7 +32,6 @@ The choice of technologies ensures that the website is lightweight and fast-load
 - Social links to LinkedIn and GitHub for professional networking.
 - An interactive UI with direct links to my projects and skills.
 
-
 ![aboutme](aboutme.png)
 
 Feel free to explore the site and get in touch if you have any questions or opportunities to discuss!
@@ -49,5 +45,3 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 ---
 
 Copyright &#169; 2023 Avni Kapoor. All Rights Reserved.
-
-
