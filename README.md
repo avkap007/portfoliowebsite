@@ -2,6 +2,22 @@
 
 Welcome to the repository for my personal portfolio website. This site showcases my work, skills, and projects as a 3rd year COGS + CS student at SFU.
 
+## Link
+
+Visit <https://avkap007.github.io/portfoliowebsite/>
+
+## Tech Stack
+
+This portfolio is built with a focus on simplicity and performance, utilizing the following technologies:
+
+- **HTML5**: For structuring the content and layout of the website.
+- **CSS3**: For styling, visual effects, and responsive design. Includes `mediaqueries.css` for handling different screen sizes and devices.
+- **JavaScript**: For dynamic interactions and functionalities, like the hamburger menu for mobile devices.
+- **GitHub Pages**: Used for hosting the website, leveraging GitHub's servers for reliable uptime and fast content delivery.
+- **And love <3**
+
+The choice of technologies ensures that the website is lightweight and fast-loading, providing a seamless user experience across all devices.
+
 ## Website Sections
 
 - **About**: Learn more about me, my background, and my experiences in volunteer work, education, and professional roles.
@@ -29,5 +45,3 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 ---
 
 Copyright &#169; 2023 Avni Kapoor. All Rights Reserved.
-
-
