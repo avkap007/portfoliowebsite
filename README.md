@@ -1,53 +1,33 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/yk_XUkky)
-# Assignment 3 (50 marks)
+# Avni Kapoor's Portfolio
 
-[View Assignment Instructions Here](A3.md)
+Welcome to the repository for my personal portfolio website. This site showcases my work, skills, and projects as a 3rd year COGS + CS student at SFU.
 
-[How to use Github / How to submit](https://parsa-rajabi.github.io/cmpt-276/#/assignment-lab-details?id=submission)
+## Website Sections
 
-For this assignment, you will include all of your "answers" in this README file. Make sure to cite any sources you use.
+- **About**: Learn more about me, my background, and my experiences in volunteer work, education, and professional roles.
+- **Skills**: A comprehensive list of my skills in Product Management, Technical Skills, and Data Analysis.
+- **Projects**: Explore some of my recent work, including a Book Recommender, Digital Journal, and CodeMentor AI, complete with links to live demos and GitHub repositories.
+- **Contact**: Various ways to get in touch with me, including email, LinkedIn, and Instagram.
 
-## Declare your AI Usage
+## Features
 
-After you completed the assignment, make sure to submit the AI declaration form via MS Form and also upload a PDF copy of your responses to this repository and include the link to PDF in this README file. Note, you must submit this form regardless if you use AI or not. Failure to submit this form will be considered a violation of AI course policy. More details about the AI-usage course policy can be found [here](https://parsa-rajabi.github.io/cmpt-276/#/ai-policy).
+- Responsive navigation with a desktop and mobile-friendly hamburger menu.
+- A dedicated section for a downloadable resume and direct contact information.
+- Social links to LinkedIn and GitHub for professional networking.
+- An interactive UI with direct links to my projects and skills.
 
-[Link to AI Usage Disclosure MS Form](http://bit.ly/276-AI)
+![aboutme](aboutme.png)
 
-Name the file in the following format: 
+Feel free to explore the site and get in touch if you have any questions or opportunities to discuss!
 
-`A#_AI_Declaration_FirstName_LastName_StudentID.pdf`
+## License
 
-Example:
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
-`A3_AI_Declaration_Parsa_Rajabi_123456789.pdf`
+->The GPL license was chosen for this project to ensure that all derivatives of this work will also be kept free and open-source. It aligns with the principle of ensuring that the freedoms to use, study, modify, and share software remain intact for all users.
+
+---
+
+Copyright &#169; 2023 Avni Kapoor. All Rights Reserved.
 
 
-More detailed submission instructions can be found via the [assignment/lab page](https://parsa-rajabi.github.io/cmpt-276/#/assignment-lab-details).
-
-## Follow-up Questions
-
-For this task, please include your answers for the questions described in the [Assignment 3](A3.md) file below:
-
-### Q0
-
-[insert answer here]
-
-### Q1
-
-[insert answer here]
-
-### Q2
-
-[insert answer here]
-
-### Q3
-
-[insert answer here]
-
-### Q4
-
-[insert answer here]
-
-### Q5
-
-[insert answer here]
