@@ -18,6 +18,10 @@ This portfolio is built with a focus on simplicity and performance, utilizing th
 
 The choice of technologies ensures that the website is lightweight and fast-loading, providing a seamless user experience across all devices.
 
+## Wireframe
+
+[wireframe_portfolio.pdf](wireframe_portfolio.pdf])
+
 ## Website Sections
 
 - **About**: Learn more about me, my background, and my experiences in volunteer work, education, and professional roles.
